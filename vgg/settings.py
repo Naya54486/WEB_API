@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'rest_framework_swagger',
     # apps
     'users.apps.UsersConfig',
+    'projects.apps.ProjectsConfig',
 
 
 ]
