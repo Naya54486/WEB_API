@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     # apps
     'users.apps.UsersConfig',
     'projects.apps.ProjectsConfig',
+    'actions.apps.ActionsConfig',
 
 
 ]
